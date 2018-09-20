@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2AEC-6A10
+
+ Directory of C:\Users\Shiva\Desktop\myproject
+
+09/20/2018  03:38 PM    <DIR>          .
+09/20/2018  03:38 PM    <DIR>          ..
+09/20/2018  03:38 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  126,490,120,192 bytes free
