@@ -3,8 +3,10 @@
 
  Directory of C:\Users\Shiva\Desktop\myproject
 
-09/20/2018  03:38 PM    <DIR>          .
-09/20/2018  03:38 PM    <DIR>          ..
-09/20/2018  03:38 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  126,490,120,192 bytes free
+09/20/2018  11:13 PM    <DIR>          .
+09/20/2018  11:13 PM    <DIR>          ..
+09/20/2018  03:43 PM                22 index.html
+09/20/2018  11:13 PM               452 index3.html
+09/20/2018  11:21 PM                 0 test1.txt
+               3 File(s)            474 bytes
+               2 Dir(s)  126,533,242,880 bytes free
